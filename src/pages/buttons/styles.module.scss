@@ -1,0 +1,44 @@
+.container {
+  .list-btn {
+    padding: 10px 20px;
+
+    button {
+      margin-left: 20px;
+      width: 100px;
+    }
+  }
+
+  .btn-group-row {
+    padding: 10px 20px;
+
+    button {
+      margin-left: 5px;
+      border-radius: 5px;
+    }
+  }
+
+  .btn-group-column {
+    padding: 10px 20px;
+    margin-left: 20px;
+
+    button {
+      margin-top: 10px;
+      margin-left: 5px;
+      border-radius: 5px;
+      font-size: 13px;
+      width: 100px;
+    }
+  }
+
+  .btn-loading {
+    margin-top: 20px;
+
+    button {
+      margin-left: 20px;
+    }
+  }
+
+  .btn-rating {
+    margin-top: 40px;
+  }
+}
